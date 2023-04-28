@@ -77,4 +77,4 @@ A known error database is a database that tracks and describes all known error t
 
 Security software is any type of software that helps to protect computers and networks. It is used for blocking unauthorised users and stopping attacks from the internet. Anti-virus, firewalls and malware protection software fall into this catagory of software.
 
-A software update is a set of changes to software that update, fix or improve it. Updates are usually done to fix bugs, fix security vulnerabilities or improve usability. Any devices using older versions of software are more vulnerable to malware attacks. Depending on the software updates are installed manually or automatically.
+A software update is a set of changes to software that update, fix or improve it. Updates are usually done to fix bugs, fix security vulnerabilities or improve usability. Any devices using older versions of software are more vulnerable to malware attacks. Depending on the software, updates are installed manually or automatically.
