@@ -67,3 +67,10 @@ A system image is a complete copy of everything on a computer's hard drive inclu
 
 Remote access is the ability for a authorized person to access a computer or network from any distance through a network connection. It is used for accessing devices and disagnosing and fixing problems without having to go to the device.
 
+Asset management is software that allows companyies to automatically monitor, track and categorise different types of assets in real time. It is used for tracking assets over multiple locations, optimising asset effectivness, reducing the chance of losing or damageing assets, having more accurate info on assets.
+
+A ticketing system is software designed to manage and track customer support requests. It streamlines the process of fixing customer issues. It allows customers to submit requests from different channels. It makes assigning and tracking requests easier and more efficient. It can give pre made responses for common requests saving time for employees.
+
+VNC (Virtual Network Computing) is a remote desktop sharing system that enables someone to control another computer in a different location. It is used for making changes on a remote computer quickly IT support teams use it to troubleshoot employees computers remotely. It is used to make updating computers and software easier and faster. It can be used on low power hardware and can be used by many different operating systems.
+
+A known error database is a database that tracks and describes all known error that are in the system. The databases typically include: descriptions of how and when the issue will appear, screenshots of incidents, the error messages, any temporary solutions that help with handling the problem, if the problem has occurred before and if it has been fixed before. The database helps with finding out how common any error is and can help with giving consistent solutions to problems. 
